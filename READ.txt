@@ -5,5 +5,15 @@ source .venv/bin/activate   # macOS/Linux
 
 # install deps
 python -m pip install -U pip
+
+DO NOT USE existing requirements.txt
+
+create requirements.txt
+
+Falsk
+Janome
+
+
+
 python -m pip install -r requirements.txt
 
