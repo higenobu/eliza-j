@@ -8,12 +8,10 @@ python -m pip install -U pip
 
 DO NOT USE existing requirements.txt
 
-create requirements.txt
-
-Falsk
-Janome
-
-
+@"
+Flask
+janome
+"@ | Set-Content -Encoding utf8 .\requirements-min.txt
 
 python -m pip install -r requirements.txt
 
